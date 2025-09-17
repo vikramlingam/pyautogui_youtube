@@ -27,24 +27,24 @@ That’s where **pyautogui** comes in.
 ## 🚀 How to Use
 
 ### 1. Clone the Repository
-'''bash
+```bash
 git clone https://github.com/vikramlingam/pyautogui_youtube.git
 cd pyautogui_youtube
-
+```
 ---
 
 ### 2. Install Dependencies
 Make sure you have Python 3.x installed. Then install the required package:
 
-'''bash
+```bash
 pip install pyautogui
-
+```
 ---
 
 ### 3. Run the Script
-'''bash
+```bash
 python agent_1.py
-
+```
 ---
 
 You’ll be asked to enter a YouTube URL. The script will:
