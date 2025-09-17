@@ -27,7 +27,7 @@ That’s where **pyautogui** comes in.
 ## 🚀 How to Use
 
 ### 1. Clone the Repository
-```bash
+'''bash
 git clone https://github.com/vikramlingam/pyautogui_youtube.git
 cd pyautogui_youtube
 
@@ -35,6 +35,7 @@ cd pyautogui_youtube
 
 ### 2. Install Dependencies
 Make sure you have Python 3.x installed. Then install the required package:
+
 '''bash
 pip install pyautogui
 
