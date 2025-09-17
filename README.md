@@ -30,3 +30,35 @@ That’s where **pyautogui** comes in.
 ```bash
 git clone https://github.com/vikramlingam/pyautogui_youtube.git
 cd pyautogui_youtube
+
+---
+
+### 2. Install Dependencies
+Make sure you have Python 3.x installed. Then install the required package:
+'''bash
+pip install pyautogui
+
+---
+
+### 3. Run the Script
+'''bash
+python agent_1.py
+
+---
+
+You’ll be asked to enter a YouTube URL. The script will:
+Open the link in your default browser.
+Wait a few seconds for the page to load.
+Use pyautogui to press play and run the video.
+
+## 🖥️ Example
+Enter the YouTube URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+The script will automatically open the browser and start the video.
+
+### What’s Next
+This project is just the first step.
+In the next version, I’ll be exploring AI Agents that can:
+Listen to context,
+Decide on actions dynamically,
+And perform tasks using LLMs and agentic workflows.
+Stay tuned for that! 
